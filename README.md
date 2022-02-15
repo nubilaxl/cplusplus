@@ -1,2 +1,2 @@
 # icecream
-ICE Repository
+C Plus Plus code repository
